@@ -1,0 +1,25 @@
+1)Пожалуйста, нажмите кнопку "Сброс", а затем дважды нажмите левой кнопкой мыши на поле для запси и введите текст.
+
+'Please,click the "Reset" button, and than double press "Left Click Mouse" on the field for entry and input the text. '
+
+
+2)
+< 24 wpm медленная скорость печати
+24-32 wpm - скорость печати среднестатистического человека
+32-52 wpm - средняя скорость печати
+52-70 wpm - хорошая скорость печати
+70-80 wpm - профессиональный уровень владения клавиатурой
+> 80 wpm - высокая скорость печати, близкая к скорости речи
+
+< 24wpm - slow typing speed'
+'24-32wpm - speed an average person'
+'32-52wpm - medium typing speed '
+'52-70wpm - good typing speed '
+'70-80wpm - professional level of keyboard skills (touch-typing) '
+'> 80wpm - high speed what close to the speed of speech
+
+
+
+3)"Пожалуйста, введите слова, которые Вы видите  на экране. После ввода, нажмите 'Enter' для отображения Вашего
+результата"
+'Please input words what are seeing on the display. After entering, press "Enter" to display your result.'
